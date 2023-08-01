@@ -1,0 +1,23 @@
+.page {
+  padding: 16px 16px 96px 16px;
+}
+
+:root {
+  --zmp-primary-color: #9bd929;
+  --zmp-page-bg-color: #f4f5f6;
+  --zmp-background-color: #f4f5f6;
+}
+
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
